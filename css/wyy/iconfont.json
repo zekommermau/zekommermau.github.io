@@ -1,0 +1,16 @@
+{
+  "id": "2577131",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21625470",
+      "name": "wyy",
+      "font_class": "wyy1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

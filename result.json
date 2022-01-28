@@ -1,0 +1,65 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为请求参数，包括不限于网址、请求头、响应头、COOKIE、Referer、UserAgent",
+        " *   本文件仅为记录详细请求参数便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "directory": "www-cssmoban-com-guuhqars",
+    "options": {
+        "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/index.html",
+        "mark": "使用爬取[模板之家cssMoban.com]模式，未经版权人许可，不得做为商业用途",
+        "index": "index.html",
+        "domain": "www.cssmoban.com",
+        "origin": "http://demo.mxyhn.xyz:8020,http://www.cssmoban.com",
+        "ipaddress": "61.243.158.123",
+        "originURL": "http://www.cssmoban.com/preview/index.html?url=http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/index.html&id=8474&tid=20125072756579",
+        "whitelist": true,
+        "filenameGenerator": "byType",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "server": "NWS_TCloud_static_msoc2",
+                "date": "Tue, 27 Jul 2021 11:23:51 GMT",
+                "expires": "Tue, 27 Jul 2021 11:33:51 GMT",
+                "content-type": "text/html",
+                "x-nws-uuid-verify": "d32837cce2bf512217f4b948d3cc55e1",
+                "x-cache-lookup": "Hit From Disktank3 Gz, Hit From Inner Cluster, Cache Miss, Hit From Inner Cluster",
+                "etag": "\"04097d7950d71:0\"",
+                "vary": "Accept-Encoding",
+                "x-powered-by": "ASP.NET",
+                "x-frame-options2": "SAMEORIGIN",
+                "x-daa-tunnel": "hop_count=1",
+                "accept-ranges": "bytes",
+                "last-modified": "Mon, 24 May 2021 08:44:48 GMT",
+                "content-encoding": "gzip",
+                "cache-control": "max-age=600",
+                "content-length": "5283",
+                "x-nws-log-uuid": "12931747643046941962",
+                "connection": "keep-alive"
+            }
+        }
+    },
+    "user": {
+        "isWhite": false
+    },
+    "formatter": [
+        "saveOriginal"
+    ],
+    "time": {
+        "start": 1627385030000,
+        "end": 1627385058347,
+        "spend": 28.347
+    }
+}

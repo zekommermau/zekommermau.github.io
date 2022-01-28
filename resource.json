@@ -1,0 +1,72 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/index.html",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/img/ava.png",
+                    "path": "images/ava.png"
+                },
+                {
+                    "url": "http://www.cssmoban.com/include/new/ggad2_728x90.js",
+                    "path": "js/ggad2_728x90.js"
+                },
+                {
+                    "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/style.css",
+                    "path": "css/style.css",
+                    "children": [
+                        {
+                            "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/img/bg.jpg",
+                            "path": "images/bg.jpg"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/css/font-awesome.css",
+                    "path": "css/font-awesome.css",
+                    "children": [
+                        {
+                            "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/fonts/fontawesome-webfont.eot?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont_1.eot"
+                        },
+                        {
+                            "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.eot"
+                        },
+                        {
+                            "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/fonts/fontawesome-webfont.woff2?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.woff2"
+                        },
+                        {
+                            "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/fonts/fontawesome-webfont.woff?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.woff"
+                        },
+                        {
+                            "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/fonts/fontawesome-webfont.ttf?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.ttf"
+                        },
+                        {
+                            "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular",
+                            "path": "images/fontawesome-webfont.svg"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://demo.mxyhn.xyz:8020/cssthemes5/twts_233_portfolio/css/animate.css",
+                    "path": "css/animate.css"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
